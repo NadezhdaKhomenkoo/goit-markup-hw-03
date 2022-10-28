@@ -282,7 +282,7 @@ ul {
   padding-bottom: 6px;
 }
 
-.portfolio-button:not(:last-child) {
+.portfolio-list:not(:last-child) {
   margin-right: 8px;
 }
 
